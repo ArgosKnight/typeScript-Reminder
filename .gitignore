@@ -1,2 +1,2 @@
 node_modules
-/src/application//db/config.env
+/src/db/config.env
